@@ -40,6 +40,13 @@ wordpress-k8s-aws/
 │   └── cleanup.sh                # Delete all resources
 │
 ├── images/
-│   └── architecture-diagram.png  # Visual overview of the setup
+│   └── architecture-diagram.png
+
+
+![Architecture Diagram](images/architecture-diagram.png)
+
+
+
+
 │
 └── README.md
